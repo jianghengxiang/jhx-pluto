@@ -3,6 +3,11 @@ pluto - 基础功能框架
 
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg)]()
+[![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<br>
+
+
 # 项目介绍
 整合spring boot + spring mvc + thymeleaf（无强格式校验）+ mybatis + alibaba druid + mysql + 分页+ shiro权限控制  - 基础框架
 顺便学一下git使用 ~~
