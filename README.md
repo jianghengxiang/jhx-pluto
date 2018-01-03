@@ -1,5 +1,4 @@
-第一阶段：整合spring boot + spring mvc + thymeleaf（无强格式校验）+ mybatis + alibaba druid + mysql + 分页
-+ shiro权限控制  - 基础框架
+第一阶段：整合spring boot + spring mvc + thymeleaf（无强格式校验）+ mybatis + alibaba druid + mysql + 分页+ shiro权限控制  - 基础框架
 顺便学一下git使用 ~~
 功能概括（以下功能不是按照顺序进行开发）：
 admin后台管理页面
